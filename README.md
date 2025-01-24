@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nikampratik9096&show_icons=true&theme=cobalt"></img>
 
-- 👨‍🎓Hey there, I Pratik  Nikam , currently embarking on my engineering journey from D.Y. Patil Insititude Management and Research , Akurdi, Pune.<br/>
+- 👨‍🎓Hey there, I Pratik  Nikam , currently embarking on my engineering journey from D.Y. Patil Insititute Management and Research , Akurdi, Pune.<br/>
 - 💻I am an **Full Stack Web Developer** as well as a **Competitive Programmer** <br/>
 <!-- - My Primary Coding language is **C++**.<br/> -->
 - Leetcoder <br/> 
