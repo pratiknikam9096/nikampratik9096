@@ -1,9 +1,46 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nikampratik9096&show_icons=true&theme=cobalt" alt="Pratik Nikam GitHub Stats" />
+Hello, World! 👋
+I'm Pratik Nikam, a passionate and driven engineering student at D.Y. Patil Institute of Management and Research, Akurdi, Pune. I thrive on solving complex problems and building innovative solutions through code.
 
-- 👨‍🎓 Hey there, I'm Pratik Nikam – currently embarking on my engineering journey at D.Y. Patil Institute of Management and Research, Akurdi, Pune.
-- 💻 I am a **Full Stack Web Developer** and a **Competitive Programmer**.
-- 🔥 Leetcoder
+💻 What I Do
+Full Stack Web Developer: Crafting seamless and dynamic web applications from front-end to back-end.
 
+Competitive Programmer: Sharpening my problem-solving skills on platforms like LeetCode, Codeforces, and CodeChef.
+
+Tech Enthusiast: Constantly exploring new technologies and frameworks to stay ahead in the game.
+
+🔥 Leetcoder
+I’m an active Leetcoder, solving challenges to improve my algorithmic thinking and coding efficiency. Check out my progress and solutions on my LeetCode profile (add your LeetCode profile link here).
+
+🚀 Skills
+Frontend: HTML, CSS, JavaScript, React.js
+
+Backend: Node.js, Express.js, Django
+
+Databases: MySQL, MongoDB
+
+Tools: Git, Docker, VS Code
+
+Languages: C++, Python, JavaScript
+
+📈 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt" alt="Pratik Nikam GitHub Streak" />
+🌱 Currently Learning
+Advanced Data Structures and Algorithms
+
+Cloud Computing (AWS, Azure)
+
+Machine Learning and AI
+
+📫 Let’s Connect
+LinkedIn: Pratik Nikam (add your LinkedIn profile link here)
+
+Email: pratik.nikam@example.com (replace with your email)
+
+Portfolio: My Portfolio Website (add your portfolio link here)
+
+💬 Fun Fact
+When I'm not coding, you’ll find me exploring new music, playing chess, or binge-watching tech documentaries!
 
 
 
