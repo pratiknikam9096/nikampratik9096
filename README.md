@@ -25,6 +25,7 @@ Languages: C++, Python, JavaScript
 
 📈 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt" alt="Pratik Nikam GitHub Streak" />
+
 🌱 Currently Learning
 Advanced Data Structures and Algorithms
 
@@ -33,9 +34,9 @@ Cloud Computing (AWS, Azure)
 Machine Learning and AI
 
 📫 Let’s Connect
-LinkedIn: Pratik Nikam (add your LinkedIn profile link here)
+LinkedIn: nikampratik9096
 
-Email: pratik.nikam@example.com (replace with your email)
+Email:nikampratik2989@gmail.com
 
 Portfolio: My Portfolio Website (add your portfolio link here)
 
