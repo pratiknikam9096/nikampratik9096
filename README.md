@@ -1,63 +1,59 @@
-<img src="https://github-readme-stats.vercel.app/api?username=nikampratik9096&show_icons=true&theme=cobalt" alt="Pratik Nikam GitHub Stats" />
-Hello, World! 👋
-I'm Pratik Nikam, a passionate and driven engineering student at D.Y. Patil Institute of Management and Research, Akurdi, Pune. I thrive on solving complex problems and building innovative solutions through code.
+👋 Hello World! I'm Pratik Nikam
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikampratik9096&show_icons=true&theme=cobalt" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt" alt="GitHub Streak" /> </div>
+🚀 About Me
+🎓 Final-year Engineering Student at D.Y. Patil Institute of Management and Research, Pune
+💻 Passionate Full Stack Developer | ⚔️ Competitive Programmer | 💡 Tech Explorer
 
-💻 What I Do
-Full Stack Web Developer: Crafting seamless and dynamic web applications from front-end to back-end.
+I love solving real-world problems with code and building scalable, efficient applications that make a difference.
 
-Competitive Programmer: Sharpening my problem-solving skills on platforms like LeetCode, Codeforces, and CodeChef.
+💼 What I Do
+Full Stack Web Development: Creating seamless, dynamic, and responsive web apps
+Competitive Programming: Enhancing algorithmic thinking on LeetCode, Codeforces, and CodeChef
+Open Source: Always up for contributing to exciting and impactful projects
+🛠️ Tech Stack
+Frontend:
 
-Tech Enthusiast: Constantly exploring new technologies and frameworks to stay ahead in the game.
 
-🔥 Leetcoder
-I’m an active Leetcoder, solving challenges to improve my algorithmic thinking and coding efficiency. Check out my progress and solutions on my LeetCode profile (add your LeetCode profile link here).
 
-🚀 Skills
-Frontend: HTML, CSS, JavaScript, React.js
 
-Backend: Node.js, Express.js, Django
+Backend:
 
-Databases: MySQL, MongoDB
 
-Tools: Git, Docker, VS Code
 
-Languages: C++, Python, JavaScript
+Databases:
+
+
+Tools & Platforms:
+
+
+
+Languages:
+
+
 
 📈 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt" alt="Pratik Nikam GitHub Streak" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikampratik9096&layout=compact&theme=cobalt" alt="Top Languages" /> </p>
 🌱 Currently Learning
-Advanced Data Structures and Algorithms
-
+Advanced Data Structures & Algorithms
 Cloud Computing (AWS, Azure)
-
-Machine Learning and AI
-
-📫 Let’s Connect
+Machine Learning & AI
+📬 Let’s Connect
 LinkedIn: nikampratik9096
+Email: nikampratik2989@gmail.com
+Portfolio: My Website (add your portfolio link here)
+LeetCode: My LeetCode Profile (add your LeetCode link)
+🎯 Fun Fact
+When I’m not coding, you’ll find me:
+🎵 Discovering new music | ♟️ Playing chess | 🎥 Binge-watching tech documentaries
 
-Email:nikampratik2989@gmail.com
-
-Portfolio: My Portfolio Website (add your portfolio link here)
-
-💬 Fun Fact
-When I'm not coding, you’ll find me exploring new music, playing chess, or binge-watching tech documentaries!
-
-
-
-
-
-
-
-- 👋 Hi, I’m Pratik Nikam
-- 👀 I’m interested in Full Stack Web deveploment
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nikampratik2989@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nikampratik9096/nikampratik9096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Quick Bytes
+👀 Interested in Full Stack Development & AI/ML
+🌱 Constantly learning and improving
+💬 Let’s collaborate on exciting open-source projects
+💻 Always open to tech discussions and idea-sharing
+🏆 Achievements
+🥇 GOLD Rank – VCRP-2023, State-level Event
+🥇 1st Rank – Kolpa Engineering Hackathon
+🏅 Consistently ranked in the top 5% on LeetCode
+⭐ Let’s Build Something Amazing Together!
+<!--- nikampratik9096/nikampratik9096 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. --->
