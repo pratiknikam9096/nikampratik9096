@@ -32,8 +32,8 @@ I thrive on solving real-world problems with code and building scalable, efficie
 ## 📫 Let's Connect
 - **LinkedIn**: [nikampratik9096](https://www.linkedin.com/in/nikampratik9096)  
 - **Email**: nikampratik2989@gmail.com  
-- **Portfolio**: [My Portfolio Website](#) *(Add your link)*  
-- **LeetCode**: [My LeetCode Profile](#) *(Add your link)*
+- **Portfolio**: [My Portfolio Website](#) *((https://nikampratikportfolio.netlify.app/))*  
+- **LeetCode**: [My LeetCode Profile](#) *[(https://nikampratikportfolio.netlify.app/)*
 
 ## 🎯 Fun Fact
 When I’m not coding, you’ll find me exploring new music, playing chess, or watching tech documentaries.
