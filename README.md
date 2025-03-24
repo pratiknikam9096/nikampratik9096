@@ -15,11 +15,11 @@ I thrive on solving real-world problems with code and building scalable, efficie
 - **Tech Enthusiast**: Always exploring new technologies and frameworks
 
 ## 🛠️ Tech Stack
-**Frontend**: HTML, CSS, JavaScript, React.js  
-**Backend**: Node.js, Express.js, Django  
+**Frontend**: HTML, CSS, JavaScript, React.js, Redux ,Figma
+**Backend**: Node.js, Express.js
 **Databases**: MySQL, MongoDB  
 **Tools**: Git, Docker, VS Code  
-**Languages**: C++, Python, JavaScript
+**Languages**: C++, Python, JavaScript,Java
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikampratik9096&layout=compact&theme=cobalt)
