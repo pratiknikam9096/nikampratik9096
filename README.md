@@ -22,7 +22,7 @@ I thrive on solving real-world problems with code and building scalable, efficie
 **Languages**: C++, Python, JavaScript,Java
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikampratik9096&layout=compact&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiknikam9096&layout=compact&theme=cobalt)
 
 ## 🌱 Currently Learning
 - Advanced Data Structures and Algorithms  
