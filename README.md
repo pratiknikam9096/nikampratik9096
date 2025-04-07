@@ -41,7 +41,7 @@ When I’m not coding, you’ll find me exploring new music, playing chess, or w
 ## 🏆 Achievements
 - 🥇 GOLD Rank – **VCRP-2023**, State-level Event  
 - 🥇 1st Rank – **Kolpa Engineering Hackathon**  
-- 🏅 300+ Problems Sloved on LeetCode
+- 🏅 350+ Problems Sloved on LeetCode
 
 <!---
 nikampratik9096/nikampratik9096 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
