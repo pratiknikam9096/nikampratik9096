@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Pratik Nikam
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikampratik9096&show_icons=true&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&theme=cobalt)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt)
 
 ## 🚀 About Me
