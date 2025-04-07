@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 🎓 Final-year Engineering Student at **D.Y. Patil Institute of Management and Research, Pune**  
-💻 Full Stack Developer | ⚔️ Competitive Programmer | 💡 Tech Explorer
+💻 Full Stack Developer | ⚔️ Competitive Programmer | 💡 Tech Explorer.
 
 I thrive on solving real-world problems with code and building scalable, efficient applications.
 
