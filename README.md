@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Pratik Nikam
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&theme=cobalt)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikampratik9096&theme=cobalt)
+
 
 ## 🚀 About Me
 🎓 Final-year Engineering Student at **D.Y. Patil Institute of Management and Research, Pune**  
@@ -11,7 +11,7 @@ I thrive on solving real-world problems with code and building scalable, efficie
 
 ## 💼 What I Do
 - **Full Stack Web Development**: Creating seamless, dynamic, and responsive web apps  
-- **Competitive Programming**: Practicing on **LeetCode**, **Codeforces**, and **CodeChef**  
+- **Competitive Programming**: Practicing on **LeetCode**, and **GFG**  
 - **Tech Enthusiast**: Always exploring new technologies and frameworks
 
 ## 🛠️ Tech Stack
